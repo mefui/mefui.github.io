@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mefui.github.io/yca/sitemap.yca.gz
